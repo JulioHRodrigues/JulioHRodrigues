@@ -4,8 +4,8 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliohrodrigues&langs_count=12&layout=compact&theme=algolia" align="right">
 
-### About Me.
-#### - Olá, me chamo Júlio, Tenho 17 anos, moro em Jaú/SP e sou Técnico em Desenvolvimento de Sistemas pela [ETEC Joaquim Ferreira do Amaral](http://www.etecjau.com.br/etecjau/) :purple_heart:.
+### > About Me:
+- Olá! me chamo Júlio, Tenho 17 anos, moro em Jaú/SP e sou Técnico em Desenvolvimento de Sistemas pela [ETEC Joaquim Ferreira do Amaral](http://www.etecjau.com.br/etecjau/) :purple_heart:.
 
 ## 
  
