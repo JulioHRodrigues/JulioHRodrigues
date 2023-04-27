@@ -34,7 +34,7 @@
 <div style="display: inline_block">
 <h3> > Sociais: </h3>
 
-<code><a href="https://instagram.com/juliohrodrigues_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a></code>
+<code><a href="https://instagram.com/juliiorodriguess" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a></code>
 <code><a href = "mailto:julio.rodrigues3006@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a></code>
 </div>
 
